@@ -1,4 +1,4 @@
-# Xamarin-iOS-DataTable
+# Working with DataTable in Xamarin.iOS 
 
 Blog : https://xamarinmonkeys.blogspot.com/2017/11/datatable-in-xamarin-ios.html
 
